@@ -1,0 +1,12 @@
+postal_code = "K2C 0T6"
+house_number = '1940'
+first_name = ""
+last_name = ""
+email = ""
+phone_number = ""
+fullname = ""
+card_number = ""
+street_number = ''
+card_cvv = ""
+card_month = ""
+card_year = ""
